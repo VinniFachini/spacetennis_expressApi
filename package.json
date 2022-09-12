@@ -1,0 +1,26 @@
+{
+  "name": "spacetennis_expressapi",
+  "version": "1.0.0",
+  "description": "Express API deployed to Vercel",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinniFachini/spacetennis_expressApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinniFachini/spacetennis_expressApi/issues"
+  },
+  "homepage": "https://github.com/VinniFachini/spacetennis_expressApi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
